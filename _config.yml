@@ -1,0 +1,7 @@
+title: CVISC
+logo: /assets/img/logo.png
+description: CVISC is a non-profit organisation &copy; 2018 Clinical Visualization Interactive Standards Consortium CVISC creates insight in clinical research by bringing together a global community of experts to develop and advance interactive visualization standards of the highest quality. Together, we enable the accessibility, interoperability, and reusability of interactive visualization for more meaningful and efficient research that has greater impact on global health.
+show_downloads: false
+logo: /assets/img/logotext_small.png
+google_analytics:
+theme: jekyll-theme-minimal
